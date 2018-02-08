@@ -1,0 +1,25 @@
+// <quest id:Name of Quest|difficulty|catId>
+// OBJECTIVES separated by commas (leave this blank to not use objectives for a quest)
+// RESOLUTIONS separated by commas use | for line breaks (leave this blank if not using resolutions for a quest)
+// quest description
+// quest description
+// quest description
+// </quest>
+
+
+<quest 1:Scattered Red Coins| |1>
+Collect 8 Red Coins
+
+Collect 8 red coins that 
+are scattered around the 
+restaurant. 
+
+It may reward you.
+</quest>
+
+<quest 2:Ultimate Debauchery| |0>
+Shit On 4 Cameras
+
+Description Description
+Story Plot Lore
+</quest>
