@@ -20,6 +20,6 @@ null,
 {"id":18,"expanded":false,"name":"Storage Room","order":18,"parentId":11,"scrollX":832,"scrollY":640},
 {"id":19,"expanded":true,"name":"Game Select","order":2,"parentId":2,"scrollX":540.6666666666666,"scrollY":310.6666666666667},
 {"id":20,"expanded":true,"name":"Fuckcat's 3","order":20,"parentId":19,"scrollX":594.1818181818181,"scrollY":338.90909090909093},
-{"id":21,"expanded":false,"name":"Debug Room","order":22,"parentId":0,"scrollX":785.5,"scrollY":475.5},
+{"id":21,"expanded":false,"name":"Debug Room","order":22,"parentId":0,"scrollX":595.6363636363636,"scrollY":338.90909090909093},
 {"id":22,"expanded":false,"name":"I AM RAT AND I AM DRIVING MY VAN","order":5,"parentId":5,"scrollX":594.1818181818181,"scrollY":338.90909090909093}
 ]

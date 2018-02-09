@@ -1,0 +1,12 @@
+Image Shits for Fuckcat's
+
+80 = Black Border
+79 = Scanlines
+78 = Static
+77 = Bars
+76 = Transition Static Bars
+75 = Transition Static
+74 = Overlay
+73 = Overlay Night Vision
+72 = Power
+71 = Area
