@@ -18,7 +18,7 @@ It may reward you.
 </quest>
 
 <quest 2:Ultimate Debauchery| |0>
-Shit On 4 Cameras
+Shit On 4 Cameras,Recruit Cindy,Recruit Chester,Recruit Blank
 
 Description Description
 Story Plot Lore
