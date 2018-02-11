@@ -53,5 +53,8 @@ var $plugins =
 {"name":"　","status":false,"description":"","parameters":{}},
 {"name":"　","status":false,"description":"","parameters":{}},
 {"name":"　","status":false,"description":"","parameters":{}},
-{"name":"　","status":false,"description":"","parameters":{}}
+{"name":"　","status":false,"description":"","parameters":{}},
+{"name":"TOMBSDAY PLUGINS","status":false,"description":"","parameters":{}},
+{"name":"================","status":false,"description":"","parameters":{}},
+{"name":"BattleTintFix","status":true,"description":"","parameters":{}}
 ];
