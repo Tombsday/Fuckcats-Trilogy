@@ -40,6 +40,7 @@ var $plugins =
 {"name":"================","status":false,"description":"","parameters":{}},
 {"name":"MOG_EventText","status":true,"description":"(v1.0) Adiciona um texto em cima do evento.","parameters":{"X axis":"0","Y axis":"18","Font Size":"12"}},
 {"name":"MOG_EnemyHP","status":true,"description":"(v1.4) Apresenta o HP do inimigo ao ataca-lo.","parameters":{"EHP Fade Duration":"120","EHP Layout X-Axis":"10","EHP Layout Y-Axis":"-8","EHP Meter X-Axis":"4","EHP Meter Y-Axis":"2"}},
+{"name":"MOG_PixiFilters","status":true,"description":"(v1.5) Ativa alguns filtros gráficos padrões do Rpg Maker MV.","parameters":{}},
 {"name":"　","status":false,"description":"","parameters":{}},
 {"name":"　","status":false,"description":"","parameters":{}},
 {"name":"MCKATHLIN PLUGINS","status":false,"description":"","parameters":{}},
@@ -65,6 +66,11 @@ var $plugins =
 {"name":"JENEEUS PLUGINS","status":false,"description":"","parameters":{}},
 {"name":"================","status":false,"description":"","parameters":{}},
 {"name":"Autolife","status":true,"description":"Special State: Autolife v1.1.0","parameters":{"Autolife Animation ID":"0"}},
+{"name":"　","status":false,"description":"","parameters":{}},
+{"name":"　","status":false,"description":"","parameters":{}},
+{"name":"DOUBLEX PLUGINS","status":false,"description":"","parameters":{}},
+{"name":"================","status":false,"description":"","parameters":{}},
+{"name":"Permanent States","status":true,"description":"Lets you sets some states to be kept/restored in some set cases","parameters":{}},
 {"name":"　","status":false,"description":"","parameters":{}},
 {"name":"　","status":false,"description":"","parameters":{}}
 ];
