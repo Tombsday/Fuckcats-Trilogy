@@ -7,10 +7,10 @@
 // </quest>
 
 
-<quest 1:Scattered Red Coins| |1>
-Collect 8 Red Coins
+<quest 1:Scattered Purple Coins| |1>
+Collect 8 Purple Coins
 
-Collect 8 red coins that 
+Collect 8 purple coins that 
 are scattered around the 
 restaurant. 
 
